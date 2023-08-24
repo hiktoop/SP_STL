@@ -1,2 +1,2 @@
 # SP_STL
-simple c++ STL.
+This is a simple c++ STL's implementation for learning.
